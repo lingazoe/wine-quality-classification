@@ -6,7 +6,7 @@ the algorithms used for predicting Wine Quality.
 
 ## Installation
 
-Upload the project folder into your preferred IDE. Use package manager pip to install the necessary packages.
+Upload files into your preferred IDE. Use package manager pip to install the necessary packages.
 
 ```pip install pandas scikit-learn matplotlib seaborn ucimlrepo```
 

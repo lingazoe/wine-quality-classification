@@ -40,4 +40,4 @@ General Output:
 [Annaz Mus Sakib](https://github.com/D1Massacre007) - Decision Tree and KNN Models   
 Saad Shahid - Naive Bayes Model   
 Zoe Linga - Proofreader + Final Touch ups   
-Ali Zafar - Presentation
+[Ali Zafar](https://github.com/alizafarqureshi) - Presentation

@@ -38,6 +38,6 @@ General Output:
 ## Credits
 
 Annaz Mus Sakib - Decision Tree and KNN Models   
-Saad - Naive Bayes Model   
+Saad Shahid - Naive Bayes Model   
 Zoe Linga - Proofreader + Final Touch ups   
 Ali Zafar - Presentation

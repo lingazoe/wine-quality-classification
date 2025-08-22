@@ -38,6 +38,6 @@ General Output:
 ## Credits
 
 [Annaz Mus Sakib](https://github.com/D1Massacre007) - Decision Tree and KNN Models   
-Saad Shahid - Naive Bayes Model   
+[Saad Shahid](https://github.com/xxaad0) - Naive Bayes Model   
 Zoe Linga - Proofreader + Final Touch ups   
 [Ali Zafar](https://github.com/alizafarqureshi) - Presentation

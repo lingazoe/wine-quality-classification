@@ -10,6 +10,14 @@ wine_quality_color = 'red'
 print(f'You have chosen the {wine_quality_color} wine dataset.\n')
 
 df = pd.read_csv(f"winequality-{wine_quality_color}.csv" , delimiter = ";")
+
+#data preparation
+print(df.head())
+print(df.info())
+
+df = df.dropna()
+df = df.drop_duplicates()
+
 df_input = df.drop("quality", axis ='columns')
 target = df["quality"]
 X_train , X_test , Y_train , Y_test = train_test_split(df_input, target, test_size= 0.3)
